@@ -1,0 +1,135 @@
+{
+  "cakes": [
+    {
+      "id": "cake1",
+      "title": "Rich Plum Cake",
+      "description": "Alcohol / Non-alcohol, loaded with dry fruits",
+      "price": "₹500",
+      "image": "assets/plum_cake.jpg"
+    },
+    {
+      "id": "cake2",
+      "title": "Chocolate Truffle Cake",
+      "description": "Decadent chocolate layers with rich truffle frosting",
+      "price": "₹650",
+      "image": "assets/chocolate_truffle.jpg"
+    },
+    {
+      "id": "cake3",
+      "title": "Red Velvet Cake",
+      "description": "Classic red velvet with cream cheese frosting",
+      "price": "₹600",
+      "image": "assets/red_velvet.jpg"
+    },
+    {
+      "id": "cake4",
+      "title": "Vanilla Sponge Cake",
+      "description": "Light and fluffy vanilla sponge with buttercream",
+      "price": "₹450",
+      "image": "assets/vanilla_sponge.jpg"
+    },
+    {
+      "id": "cake5",
+      "title": "Black Forest Cake",
+      "description": "Layers of chocolate, cherries, and whipped cream",
+      "price": "₹700",
+      "image": "assets/black_forest.jpg"
+    },
+    {
+      "id": "cake6",
+      "title": "Fruit Cake",
+      "description": "Traditional fruit cake with mixed dry fruits",
+      "price": "₹550",
+      "image": "assets/fruit_cake.jpg"
+    }
+  ],
+  "decorations": [
+    {
+      "id": "decor1",
+      "title": "Birthday Basic Decor",
+      "description": "20 balloons + Happy Birthday banner",
+      "price": "₹499",
+      "image": "assets/birthday_decor.jpg"
+    },
+    {
+      "id": "decor2",
+      "title": "Anniversary Setup",
+      "description": "Romantic decoration with flowers and candles",
+      "price": "₹899",
+      "image": "assets/anniversary_decor.jpg"
+    },
+    {
+      "id": "decor3",
+      "title": "Baby Shower Theme",
+      "description": "Colorful balloons, banners, and party accessories",
+      "price": "₹799",
+      "image": "assets/baby_shower.jpg"
+    },
+    {
+      "id": "decor4",
+      "title": "Wedding Reception Decor",
+      "description": "Elegant wedding decoration package",
+      "price": "₹2999",
+      "image": "assets/wedding_decor.jpg"
+    },
+    {
+      "id": "decor5",
+      "title": "Graduation Party Setup",
+      "description": "Celebration decor with graduation theme",
+      "price": "₹699",
+      "image": "assets/graduation_decor.jpg"
+    },
+    {
+      "id": "decor6",
+      "title": "Festival Decoration",
+      "description": "Traditional festival decoration package",
+      "price": "₹599",
+      "image": "assets/festival_decor.jpg"
+    }
+  ],
+  "gifts": [
+    {
+      "id": "gift1",
+      "title": "Flower Bouquet",
+      "description": "Fresh roses beautifully wrapped",
+      "price": "₹399",
+      "image": "assets/flower_bouquet.jpg"
+    },
+    {
+      "id": "gift2",
+      "title": "Chocolate Gift Box",
+      "description": "Assorted premium chocolates in elegant box",
+      "price": "₹499",
+      "image": "assets/chocolate_box.jpg"
+    },
+    {
+      "id": "gift3",
+      "title": "Gift Hamper",
+      "description": "Curated gift hamper with multiple items",
+      "price": "₹799",
+      "image": "assets/gift_hamper.jpg"
+    },
+    {
+      "id": "gift4",
+      "title": "Teddy Bear with Balloons",
+      "description": "Cute teddy bear with colorful balloons",
+      "price": "₹599",
+      "image": "assets/teddy_balloons.jpg"
+    },
+    {
+      "id": "gift5",
+      "title": "Photo Frame Gift Set",
+      "description": "Elegant photo frame with personalized message",
+      "price": "₹449",
+      "image": "assets/photo_frame.jpg"
+    },
+    {
+      "id": "gift6",
+      "title": "Candle Set",
+      "description": "Aromatherapy candle set in decorative box",
+      "price": "₹349",
+      "image": "assets/candle_set.jpg"
+    }
+  ]
+}
+
