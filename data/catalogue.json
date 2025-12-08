@@ -2,45 +2,38 @@
   "cakes": [
     {
       "id": "cake1",
-      "title": "Rich Plum Cake",
+      "title": "Rich Plum Cake 0.5kg eggless",
       "description": "Alcohol / Non-alcohol, loaded with dry fruits",
       "price": "₹500",
-      "image": "assets/plum_cake.jpg"
+      "image": "assets//plumcake.webp"
     },
     {
       "id": "cake2",
-      "title": "Chocolate Truffle Cake",
+      "title": "Chocolate Cake 0.5 kg eggless",
       "description": "Decadent chocolate layers with rich truffle frosting",
       "price": "₹650",
-      "image": "assets/chocolate_truffle.jpg"
-    },
-    {
-      "id": "cake3",
-      "title": "Red Velvet Cake",
-      "description": "Classic red velvet with cream cheese frosting",
-      "price": "₹600",
-      "image": "assets/red_velvet.jpg"
+      "image": "assets/chocklate_cake.png"
     },
     {
       "id": "cake4",
-      "title": "Vanilla Sponge Cake",
+      "title": "Vanilla Sponge Cake 0.5 kg eggless",
       "description": "Light and fluffy vanilla sponge with buttercream",
-      "price": "₹450",
-      "image": "assets/vanilla_sponge.jpg"
+      "price": "₹280",
+      "image": "assets/vanilla.png"
     },
     {
       "id": "cake5",
-      "title": "Black Forest Cake",
+      "title": "Black Forest Cake 0.5kg eggless",
       "description": "Layers of chocolate, cherries, and whipped cream",
-      "price": "₹700",
-      "image": "assets/black_forest.jpg"
+      "price": "₹300",
+      "image": "assets/blackforest.png"
     },
     {
       "id": "cake6",
-      "title": "Fruit Cake",
-      "description": "Traditional fruit cake with mixed dry fruits",
-      "price": "₹550",
-      "image": "assets/fruit_cake.jpg"
+      "title": "Butterscotch Cake 0.5kg eggless",
+      "description": "Butterscotch cake with mixed dry fruits",
+      "price": "₹380",
+      "image": "assets/butterscotch.png"
     }
   ],
   "decorations": [
